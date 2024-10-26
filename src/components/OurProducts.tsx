@@ -32,7 +32,7 @@ function OurProducts() {
         <h2 className="text-3xl md:text-4xl lg:text-5xl text-red-500 font-bold mb-8 text-center">Our Products</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {products.map((product, index) => (
-            <a href={product.link} target="_blank" rel="noopener noreferrer" key={index}>
+            <a href={product.link} rel="noopener noreferrer" key={index}>
               <BackgroundGradient className='p-4 md:p-8 hover:scale-105 transition-all ease-in-out'>
                 <Card className="bg-gray-800 border-gray-700 h-full">
                   <CardHeader className='flex flex-col justify-center items-center'>
