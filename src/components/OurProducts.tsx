@@ -15,7 +15,7 @@ const products = [
     icon: <MessageSquareCode className="w-12 h-12 mb-4 text-red-400" />,
     title: 'BlockChat',
     description: 'Blockchain based, Generative AI powered chat application for secured communication channels like Defence, Space Research, Delegate communication and more.',
-    link: 'https://blockchat.vercel.app', // replace with your actual link
+    link: 'https://icp-chat.vercel.app/', // replace with your actual link
   },
   {
     icon: <Zap className="w-12 h-12 mb-4 text-red-400" />,
