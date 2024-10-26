@@ -4,7 +4,7 @@ import { Input } from "@/components/ui/input"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 
-import { Laptop, Cpu, Shield, Zap, BarChart, Users, Star, CheckCircle } from "lucide-react"
+import {  Shield, Zap, BarChart, Users, Star, CheckCircle } from "lucide-react"
 import Hero from "@/components/Hero"
 import About from "@/components/About"
 import OurProducts from "@/components/OurProducts"
@@ -125,7 +125,7 @@ export default function BharatBlockAILanding() {
                   Innovation
                 </h3>
                 <p className="text-gray-300 mb-6">
-                  We're constantly pushing the boundaries of what's possible with cutting-edge solutions.
+                  We are constantly pushing the boundaries of whats possible with cutting-edge solutions.
                 </p>
               </div>
               <div>
@@ -156,7 +156,7 @@ export default function BharatBlockAILanding() {
               <Card className="bg-gray-800 border-gray-700">
                 <CardContent className="pt-6">
                   <p className="text-gray-300 mb-4">
-                    "BharatBlockAI transformed our supply chain with their innovative blockchain solution. We've seen unprecedented transparency and efficiency gains."
+                   &quotBharatBlockAI transformed our supply chain with their innovative blockchain solution. We have seen unprecedented transparency and efficiency gains.&quot
                   </p>
                   <p className="font-semibold">- Rajesh Patel, CEO of LogiTech Solutions</p>
                 </CardContent>
@@ -164,7 +164,7 @@ export default function BharatBlockAILanding() {
               <Card className="bg-gray-800 border-gray-700">
                 <CardContent className="pt-6">
                   <p className="text-gray-300 mb-4">
-                    "The AI-powered analytics platform developed by BharatBlockAI has given us invaluable insights, driving our decision-making to new heights."
+                  &quotThe AI-powered analytics platform developed by BharatBlockAI has given us invaluable insights, driving our decision-making to new heights.&quot
                   </p>
                   <p className="font-semibold">- Priya Sharma, CTO of  DataDrive Inc.</p>
                 </CardContent>
@@ -172,7 +172,7 @@ export default function BharatBlockAILanding() {
               <Card className="bg-gray-800 border-gray-700">
                 <CardContent className="pt-6">
                   <p className="text-gray-300 mb-4">
-                    "We were impressed by the expertise and professionalism of the BharatBlockAI team. They delivered a secure and scalable solution that exceeded our expectations."
+                    We were impressed by the expertise and professionalism of the BharatBlockAI team. They delivered a secure and scalable solution that exceeded our expectations.
                   </p>
                   <p className="font-semibold">- Amit Desai, Founder of SecureChain</p>
                 </CardContent>
